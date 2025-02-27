@@ -1,6 +1,8 @@
 ### IntelliJ IDEA ###
 out/
 .idea/
+# Ignore target directory
+target/
 !**/src/main/**/out/
 !**/src/test/**/out/
 
